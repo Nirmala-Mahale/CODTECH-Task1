@@ -10,3 +10,5 @@ Mentor:
 Project: To-Do List Web Application
 
 Objective
+
+The objective of this project is to perform
