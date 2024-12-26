@@ -9,6 +9,37 @@ Mentor: NEELA SANTHOSH KUMAR
 ***#Overview of the Project***
 
 **Project**: To-Do List Web Application
+![image](https://github.com/user-attachments/assets/770b6841-6acb-4f4b-9991-2da984078b40) 
+![image](https://github.com/user-attachments/assets/32893330-aa69-4f0e-bf75-2860f6316f08)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ***#Objective***                        
 The objective of the To-Do List Web Application is to provide users with a simple and intuitive platform to manage their daily tasks and activities. It allows users to create, edit, delete, and mark tasks as completed. With a user-friendly interface, it serves as a convenient tool for personal or professional task management.
