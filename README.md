@@ -8,3 +8,5 @@ Mentor:
 #Overview of the Project
 
 Project: To-Do List Web Application
+
+Objective
